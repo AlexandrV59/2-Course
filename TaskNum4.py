@@ -1,0 +1,5 @@
+first_tuple = (0, 2, 5, 2, 4, 0, 1, 3, 4, 1 )
+second_tuple = (-1, -1, 0, -5, -2, -3, -5, -2, -2, -3)
+new_tuple = (first_tuple + second_tuple)
+print(new_tuple)
+print(new_tuple.count(0))
